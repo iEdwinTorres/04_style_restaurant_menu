@@ -3,7 +3,7 @@
 
 nav {font-family: sans-serif; font-size: 10px;}
 
-body {background-image: url("/src/img/map-bg.jpg");}
+body {background-image: url('/src/img/map-bg.jpg');}
 
 #main {width: 900px; margin: 10px auto; font-family: 'Supermercado One', sans-serif; font-size: 18px; color: black;}
 
